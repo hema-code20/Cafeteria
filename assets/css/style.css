@@ -428,9 +428,6 @@
     font-size: 1.5rem;
     transition: color 0.4s;
   }
-  .footer-social a:hover {
-    color: hsl(28, 88%, 62%);
-  }
   ::-webkit-scrollbar {
     width: 0.3rem;
     background-color: hsl(28, 12%, 15%);
